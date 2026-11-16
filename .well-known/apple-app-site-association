@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["HAKNA5F2JV.com.liquidrnd.mkrk"],
+        "components": [{ "/": "/venue/*", "comment": "Venue QR codes and links" }]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["HAKNA5F2JV.com.liquidrnd.mkrk"]
+  }
+}
