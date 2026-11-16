@@ -1,10 +1,14 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls", "delegate_permission/common.get_login_creds"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.liquidrnd.mkrk",
       "sha256_cert_fingerprints": [
+        "71:48:FE:3D:9A:2A:94:E4:CE:14:DC:65:B3:F6:CD:C0:1B:03:C6:AF:4C:D0:CA:F8:7A:D6:7C:18:43:05:D5:2F",
         "79:63:36:93:01:C8:F3:1F:0E:E5:10:2E:82:8E:63:DC:B7:A5:65:C9:61:07:D9:6E:B9:D6:25:9A:65:32:B7:C2"
       ]
     }
